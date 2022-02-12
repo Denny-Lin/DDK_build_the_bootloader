@@ -48,7 +48,7 @@ make CROSS_COMPILE=arm-cortex_a8-linux-gnueabi-
 
 ## Issue
 fatal error: linux/compiler-gcc11.h: No such file or directory <br/>
-cc/home/denny/Desktop/u-boot <br/>
+cd /home/denny/Desktop/u-boot <br/>
 cp ./include/linux/compiler-gcc5.h ./include/linux/compiler-gcc11.h &nbsp;
 
 # Image path
